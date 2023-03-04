@@ -90,6 +90,7 @@ section {
 
 .formulario:hover {
     background: linear-gradient(45deg, rgb(235, 122, 235), rgb(238, 219, 238), rgb(85, 182, 241));
+    border: none;
 }
 
 #logo2 {
