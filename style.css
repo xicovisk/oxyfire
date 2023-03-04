@@ -51,9 +51,10 @@ ul {
     gap: 50px;
     align-items: center;
 }
- li {
+
+li {
     margin-left: 40px;
- }
+}
 
 li a {
     color: rgb(147, 147, 241);
@@ -86,6 +87,7 @@ section {
     border-bottom: 1px solid rgb(211, 54, 231);
     border-radius: 5px;
 }
+
 .formulario:hover {
     background: linear-gradient(45deg, rgb(235, 122, 235), rgb(238, 219, 238), rgb(85, 182, 241));
 }
@@ -188,11 +190,6 @@ input {
 @media (max-width:900px) {
 
     /* MENU MOBILE */
-
-    body {
-        
-    }
-
 
     #logo {
         font-size: 40px;
