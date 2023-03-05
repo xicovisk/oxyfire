@@ -201,6 +201,11 @@ input:hover {
 
     /* MENU MOBILE */
 
+
+    header {
+        align-items: center;
+    }
+
     #logo {
         font-size: 40px;
     }
