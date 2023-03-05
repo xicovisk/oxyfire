@@ -81,15 +81,12 @@ section {
     align-items: center;
     height: 450px;
     width: 450px;
-    border-left: 1px solid rgb(23, 43, 155);
-    border-right: 1px solid rgb(134, 37, 163);
-    border-top: 1px solid rgb(170, 95, 240);
-    border-bottom: 1px solid rgb(211, 54, 231);
     border-radius: 5px;
+    background: linear-gradient(45deg, rgb(235, 122, 235), rgb(238, 219, 238), rgb(85, 182, 241));
 }
 
 .formulario:hover {
-    background: linear-gradient(45deg, rgb(235, 122, 235), rgb(238, 219, 238), rgb(85, 182, 241));
+    background: linear-gradient(45deg, rgb(235, 198, 235), rgb(247, 182, 247), rgb(28, 154, 233));
     border: none;
 }
 
@@ -176,8 +173,8 @@ input {
     align-items: center;
     border-radius: 5px;
     text-align: center;
-   
 }
+
 .cadastre p {
     font-size: 14px;
     color: rgb(252, 252, 252);
@@ -272,6 +269,7 @@ input {
         width: 330px;
         border: none;
     }
+
     input {
         padding: 12px;
     }
