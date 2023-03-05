@@ -219,10 +219,6 @@ input:hover {
         border: 2px solid rgb(94, 94, 247);
     }
 
-    nav {
-        align-items: center;
-       } 
-
     ul {
         position: absolute;
         display: none;
