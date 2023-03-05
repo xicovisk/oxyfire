@@ -201,11 +201,6 @@ input:hover {
 
     /* MENU MOBILE */
 
-
-    header {
-        align-items: center;
-    }
-
     #logo {
         font-size: 40px;
     }
@@ -223,6 +218,10 @@ input:hover {
         width: 30px;
         border: 2px solid rgb(94, 94, 247);
     }
+
+    nav {
+        align-items: center;
+       } 
 
     ul {
         position: absolute;
