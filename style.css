@@ -237,14 +237,16 @@ input:hover {
         padding: 20px;
         margin: 0;
     }
+   
     li a {
         font-size: 30px;
-        color: rgb(247, 145, 145);
+        color: rgb(160, 104, 233);
     }
 
     li:hover {
         background: linear-gradient(90deg, rgb(180, 70, 180), rgb(94, 94, 247), black);
         color: white;
+        border: none;
     }
 
     li a:hover {
