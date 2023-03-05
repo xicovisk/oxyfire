@@ -91,7 +91,7 @@ section {
 }
 
 #logo2 {
-    color: rgb(190, 79, 218);
+    color: rgb(173, 100, 196);
     font-size: 55px;
     text-align: center;
     margin: 0 0 50px 0;
@@ -99,7 +99,7 @@ section {
 }
 
 #logo2:hover {
-    color: rgb(12, 54, 88);
+    color: rgb(223, 238, 248);
 }
 
 input {
@@ -109,6 +109,10 @@ input {
     border: none;
     border-radius: 5px;
     font-size: 17px;
+    background: linear-gradient(45deg, rgb(255, 237, 254), rgb(255, 255, 255));
+}
+input:hover {
+    background: white;
 }
 
 #texto-input {
@@ -269,7 +273,9 @@ input {
         width: 330px;
         border: none;
         background: none;
-
+    }
+    .formulario:hover {
+        box-shadow: 0px 0px 5px 0px  white;
     }
 
     input {
