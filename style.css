@@ -44,7 +44,7 @@ nav {
     display: none;
 }
 
-/* BOTAO MOBILE */
+/* FIM BOTAO MOBILE */
 
 ul {
     display: flex;
@@ -149,6 +149,7 @@ input:hover {
     font-size: 17px;
     padding: 12px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 #btn:hover {
@@ -163,10 +164,12 @@ input:hover {
     border-radius: 5px;
     font-weight: 700;
     margin-left: 60px;
+    cursor: pointer;
 }
 
 #btn2:hover {
     background: linear-gradient(45deg, rgb(65, 65, 202), rgb(197, 134, 197));
+    color: white;
 }
 
 /* CADASTRE-SE */
