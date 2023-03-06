@@ -92,7 +92,7 @@ section {
 
 #logo2 {
     color: rgb(173, 100, 196);
-    font-size: 55px;
+    font-size: 50px;
     text-align: center;
     margin: 0 0 50px 0;
     letter-spacing: 2px;
@@ -286,6 +286,11 @@ input:hover {
         font-size: 20px;
         padding: 18px;
     }
+
+    #logo2 {
+        font-size: 40px;
+    }
+        
 
     .formulario {
         height: 520px;
