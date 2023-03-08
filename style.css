@@ -263,12 +263,14 @@ input:hover {
 
     #nav.active #bar2 {
         transform: rotate(135deg);
+        transition: 0.3s;
     }
 
     #nav.active #bar3 {
         transform: rotate(-135deg);
         position: relative;
         top: -7px;
+        transition: 0.3s;
     }
 
     #btn {
